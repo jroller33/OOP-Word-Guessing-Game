@@ -12,10 +12,10 @@ describe('Visibility', () => {
     // Correct guess
     letter.guess('j');
 
-    // Letter was not originally visible
+    // letter wasn't originally visible
     expect(visible).toBe(false);
 
-    // Letter is now visible
+    // letter now visible
     expect(letter.visible).toBe(true);
   });
 
@@ -26,10 +26,10 @@ describe('Visibility', () => {
     // Incorrect guess
     letter.guess('l');
 
-    // Letter was not originally visible
+    // letter wasnt originally visible
     expect(visible).toBe(false);
 
-    // Letter is still not visible
+    // letter still not visible
     expect(letter.visible).toBe(false);
   });
 
