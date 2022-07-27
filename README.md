@@ -2,8 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is a command-line word guessing game, that uses npm and different object-oriented topics like classes, subclasses, objects, methods, constructors, etc. <br/>
-It uses `node.js`, `inquirer`, `chalk`, and `jest` for testing (devDependency).<br/>
+This is a Node.js command-line word guessing game, that uses npm and different object-oriented topics like classes, subclasses, objects, methods, constructors, etc. <br/>
+Dependencies are `inquirer`, `chalk`, and `jest`. <br/>
+#
+## Instructions:
 Navigate to the directory, run `npm i` in the terminal, then run either `npm start` or `node index.js`.<br/>
 For testing, run `npm test`.
 #
