@@ -1,6 +1,7 @@
 # Node.js OOP Word Guessing Game
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 This is a Node.js word guessing game, that uses npm and different object-oriented topics like classes, subclasses, objects, methods, constructors, etc. <br/>
 Dependencies are `inquirer`, `chalk`, and `jest`. <br/>
