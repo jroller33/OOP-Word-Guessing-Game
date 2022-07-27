@@ -1,29 +1,6 @@
-# Module 10 Mini-Project: 🏗️ Build Word-Guessing Game
+# Node.js Word Guessing Game
 
-Work with a partner to implement the following user story:
-
-* As a user, I want to be able to play a word-guessing game from the command line.
-
-## Acceptance Criteria
-
-* It's done when the `Letter` and `Word` classes fulfill the tests in the `tests` folder.
-
-* It's done when the user can run the command `npm start` to play the game.
-
----
-
-## 💡 Hints
-
-How do the tests suggest how each method and class should be written?
-
-## 🏆 Bonus
-
-If you have completed this activity, work through the following challenge with your partner to further your knowledge:
-
-* What does the `chalk` npm package do?
-
-Use [Google](https://www.google.com) or another search engine to research this.
-
----
-
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+This is a command-line word guessing game, that uses npm and different object-oriented topics like classes, subclasses, objects, methods, constructors, etc. <br/>
+It uses `node.js`, `inquirer`, `chalk`, and `jest` for testing (devDependency).<br/>
+Navigate to the directory, run `npm i` in the terminal, then run either `npm start` or `node index.js`.<br/>
+For testing, run `npm test`.
