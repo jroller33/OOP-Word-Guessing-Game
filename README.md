@@ -3,7 +3,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   ## Description
 
-  This is a Node.js game similar to Wheel of Fortune that uses OOP concepts like classes, subclasses, prototypes, constructors, methods, etc.
+  This is a Node.js game similar to Wheel of Fortune, that uses OOP concepts like classes, subclasses, prototypes, constructors, methods, etc. <br/>Its dependencies are `inquirer`, `chalk` and `jest` (see [installation](#installation)).
   #
   ## Table of Contents
   - [Installation](#installation)
