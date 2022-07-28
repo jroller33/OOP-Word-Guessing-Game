@@ -31,7 +31,7 @@
   You can contribute to this project at https://github.com/jroller33/OOP-Word-Guessing-Game
 
   ## License
-  This project is licensed under the MIT License.
+  This project is licensed under the MIT License. <br/>
   https://www.mit.edu/~amini/LICENSE.md
 
   ## Contact
