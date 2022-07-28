@@ -4,7 +4,7 @@
   ## Description
 
   This is a Node.js game similar to Wheel of Fortune, that uses OOP concepts like classes, subclasses, prototypes, constructors, methods, etc. <br/>Its dependencies are `inquirer`, `chalk` and `jest` (see [installation](#installation)).
-  #
+  
   ## Table of Contents
   - [Installation](#installation)
   - [How to Play](#how-to-play)
@@ -23,7 +23,7 @@
   <br/>
 
   If you guess the phrase correctly before you run out of guesses, a new Game object will be instantiated by the constructor, a new phrase will be randomly chosen from the array of phrases, and the game will start over. If you don't guess the phrase correctly, you'll be shown the correct phrase and asked whether you want to play again.
-#
+
   ## Tests
   To test the Classes in this application, run `npm test`. 'Letter' and 'Word' classes should pass all the tests located in './test/'
 
@@ -33,7 +33,7 @@
   ## License
   This project is licensed under the MIT License.
   https://www.mit.edu/~amini/LICENSE.md
-#
+
   ## Contact
   GitHub: https://github.com/jroller33
 
